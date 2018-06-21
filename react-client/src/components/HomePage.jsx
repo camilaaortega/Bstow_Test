@@ -9,6 +9,9 @@ class HomePage extends Component {
 						<div class="fh5co-blog animate-box">
 							<a href="#"><img class="img-responsive" src="img/a.png" alt=""/></a>
 							<div class="blog-text">
+									<div class="pull-right fh5co-social-icons">
+										<a href="#" class="grow"><span class="glyphicon glyphicon-edit"></span></a>
+									</div>
 								<div class="prod-title">
 									<h3><a href="">Lifesaving Care & a Home for Poppy</a></h3>
 									<hr></hr>
@@ -58,11 +61,12 @@ class HomePage extends Component {
 							</div>
 						</div>
 						<div class="">
-						<h5>Recent Donations</h5>
+						<h5>Donor History</h5>
 							<div class="">
 							  <img src="/img/b.png" alt="Avatar" class="avatar align-right"/>
 							  <p class="avatar-info"><strong class="amount-donation">$50</strong> Sam Smith</p>
 							  <small class="avatar-text">"For Poppy's journey to Johannesburg and the next steps in recovery!  "</small>
+							  <a href="#">View Profile</a>
 							  <hr></hr>
 							</div>
 
@@ -70,6 +74,7 @@ class HomePage extends Component {
 							  <img src="/img/b.png" alt="Avatar" class="avatar align-right"/>
 							  <p class="avatar-info"><strong class="amount-donation">$10</strong> Joe Simpson</p>
 							  <small class="avatar-text">"For Poppy's journey to Johannesburg and the next steps in recovery! We love you Poppy, and have so much hope for your bright future! Love, Kristi, Trevor, Coco, Max and Roo from "</small>
+							  <a href="#">View Profile</a>
 							  <hr></hr>
 							</div>
 
@@ -77,12 +82,15 @@ class HomePage extends Component {
 							  <img src="/img/b.png" alt="Avatar" class="avatar align-right"/>
 							  <p class="avatar-info"><strong class="amount-donation">$15</strong> Clay Christiansen</p>
 							  <small class="avatar-text">"For Poppy's journey to Johannesburg!"</small>
+							  <a href="#">View Profile</a>
 							  <hr></hr>
 							</div>
 
 							<div class="">
 							  <img src="/img/b.png" alt="Avatar" class="avatar align-right"/>
 							  <p class="avatar-info"><strong class="amount-donation">$20</strong> John Chang</p>
+							  <br></br>
+							  <a href="#">View Profile</a>
 							  <hr></hr>
 							</div>
 						</div>

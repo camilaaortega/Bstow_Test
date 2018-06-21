@@ -11,6 +11,8 @@ class NavBar extends Component {
 						<a href="#" class="grow"><i class="icon-facebook2"></i></a>
 						<a href="#" class="grow"><i class="icon-twitter2"></i></a>
 						<a href="#" class="grow"><i class="icon-instagram2"></i></a>
+						<a href="#" class="text-right"><strong>Brand Name |</strong></a>
+						<a href="#" class="text-right">Log Out</a>
 					</div>
 				</div>
 			</div>
@@ -19,6 +21,7 @@ class NavBar extends Component {
 				<div class="nav-header">
 					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></a>
 					<h1 id="fh5co-logo"><a href="#">LOGO</a></h1>
+								<button type="button" class="btn btn-edit btn-primary pull-right"><span class="glyphicon glyphicon-edit"></span> Edit campaign</button>
 				</div>
 			</div>
       </header>

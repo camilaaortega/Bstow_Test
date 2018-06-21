@@ -81,7 +81,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #c7c7c7;
+  background: #444150;
 }
 .header-top .fh5co-link a {
   margin-left: 10px;
@@ -1060,6 +1060,10 @@ figure {
 
 }
 
+header{
+  border-bottom: 2px solid #CCC;
+}
+
 .fh5co-blog .blog-text span {
   display: inline-block;
   margin-bottom: 20px;
@@ -1083,9 +1087,14 @@ figure {
      margin-left: 15px;
 
 }
+
+.btn-edit{
+      margin-top: 30px;
+}
+
 .avatar-text{
   display: block;
-     margin: 10px 0;
+     margin: 10px 0 0 0;
 }
 .progress{
       width: 100%;
